@@ -20,6 +20,8 @@ To provision the cluster, execute the following commands.
 git clone https://github.com/scriptcamp/vagrant-kubeadm-kubernetes.git
 cd vagrant-kubeadm-kubernetes
 vagrant up
+
+PS: change the IP addr in vagrantfile and master script
 ```
 
 ## Set Kubeconfig file varaible.
